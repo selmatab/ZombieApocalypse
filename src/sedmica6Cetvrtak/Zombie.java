@@ -5,3 +5,4 @@ public Zombie(String name,double HP, double Dexterity, Weapon weapon, double str
 	super(name, HP, Dexterity, weapon, strength, speed);
 }
 }
+-
